@@ -1,8 +1,3 @@
----
-layout: default
-title: Connor's Free Posters
----
-
 Hosting some posters I thought were cool!
 
 - [Poster 37](poster-37-CMYK.pdf)
